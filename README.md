@@ -46,7 +46,6 @@ Currently exploring Generative AI tools and prompt engineering to improve my dev
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 
 **CMS & Platforms**
 
@@ -88,6 +87,8 @@ Currently exploring Generative AI tools and prompt engineering to improve my dev
 ## Selected Projects
 
 ### ⚛️ React / Next.js
+
+- **[Volz](https://volz.ua/)**
 
 - **[Codage Habitation](https://codagehabitation.com/)**
 
